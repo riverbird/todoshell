@@ -1,0 +1,22 @@
+# coding: utf8
+# try something like
+import datetime
+now = datetime.date.today()
+todo=SQLDB("sqlite://todo.db")
+todo.define_table('queue',
+                SQLField('name'))
+todo.define_table('task',
+                SQLField('create_time','date',default=now),
+                SQLField('end_time','date',default=now),
+                SQLField('subject',length=256),
+                SQLField('comment',length=256),
+                SQLField('status','integer',default=0,length=1),
+                SQLField('queue_id',todo.queue),
+                )
+todo.queue.name.requires=[IS_NOT_EMPTY(),IS_NOT_IN_DB(todo,'queue.name')]
+
+todo.task.subject.requires=[IS_NOT_EMPTY()]
+todo.task.create_time.requires=IS_NOT_EMPTY()
+todo.task.queue_id.requires=IS_IN_DB(todo,'queue.id','queue.name')
+todo.task.create_time.requires=IS_DATE()
+todo.task.end_time.requires=IS_DATE()

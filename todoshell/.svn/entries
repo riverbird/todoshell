@@ -1,0 +1,169 @@
+10
+
+dir
+55
+https://todoshell.googlecode.com/svn/trunk/todoshell
+https://todoshell.googlecode.com/svn
+
+
+
+2009-10-27T11:01:13.699382Z
+42
+riverbird2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e8f56e28-abf9-11de-a87c-5360b77f26dc
+
+LICENSE
+file
+
+
+
+
+2010-10-08T00:42:57.323668Z
+03edb37c3ce29496c53de6eaec141c5b
+2009-10-13T10:12:46.023695Z
+34
+riverbird2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+135
+
+models
+dir
+
+__init__.py
+file
+
+
+
+
+2010-10-08T00:42:57.326668Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-10-13T10:12:46.023695Z
+34
+riverbird2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+static
+dir
+
+databases
+dir
+
+views
+dir
+
+cron
+dir
+
+tests
+dir
+
+cache
+dir
+
+sessions
+dir
+
+languages
+dir
+
+controllers
+dir
+
+uploads
+dir
+
+modules
+dir
+
+private
+dir
+
+ABOUT
+file
+
+
+
+
+2010-10-08T00:42:57.328668Z
+c1464b9c716ce6ea4cdf3f557eb03e11
+2009-10-13T10:12:46.023695Z
+34
+riverbird2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54
+

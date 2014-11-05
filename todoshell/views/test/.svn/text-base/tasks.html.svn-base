@@ -1,0 +1,16 @@
+{{extend 'layout.html'}}
+<h1>List all tasks</h1>
+{{=form}}
+<table>
+{{for task in records:}}
+<tr>
+<td>{{=task.id}}</td>
+<td>{{=task.create_time}}</td>
+<td>{{=A(task.subject,_href=URL(r=request,f='show?id=%s'%task.id))}}</td>
+</tr>
+{{pass}}
+</table>
+{{=A('create new task',_href=URL(r=request,f='new_task'))}}
+<!--
+{{=BEAUTIFY(response._vars)}}
+-->

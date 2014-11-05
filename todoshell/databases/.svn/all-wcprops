@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/35/trunk/todoshell/databases
+END
+sql.log
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/35/trunk/todoshell/databases/sql.log
+END
+f6db3e6e66dc0b6aea6b47a87ef29c1f_task.table
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/trunk/todoshell/databases/f6db3e6e66dc0b6aea6b47a87ef29c1f_task.table
+END
+f6db3e6e66dc0b6aea6b47a87ef29c1f_recipe.table
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/34/trunk/todoshell/databases/f6db3e6e66dc0b6aea6b47a87ef29c1f_recipe.table
+END
+e42bc33312d912db7356e91c387da1e9_queue.table
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/35/trunk/todoshell/databases/e42bc33312d912db7356e91c387da1e9_queue.table
+END
+todo.db
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/35/trunk/todoshell/databases/todo.db
+END
+f6db3e6e66dc0b6aea6b47a87ef29c1f_category.table
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/34/trunk/todoshell/databases/f6db3e6e66dc0b6aea6b47a87ef29c1f_category.table
+END
+c8b669d15150d7109e5f7ab36744a5b7_auth_user.table
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/34/trunk/todoshell/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_user.table
+END
+c8b669d15150d7109e5f7ab36744a5b7_auth_event.table
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/34/trunk/todoshell/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_event.table
+END
+f6db3e6e66dc0b6aea6b47a87ef29c1f_queue.table
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/34/trunk/todoshell/databases/f6db3e6e66dc0b6aea6b47a87ef29c1f_queue.table
+END
+storage.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/34/trunk/todoshell/databases/storage.sqlite
+END
+e42bc33312d912db7356e91c387da1e9_task.table
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/35/trunk/todoshell/databases/e42bc33312d912db7356e91c387da1e9_task.table
+END
+c8b669d15150d7109e5f7ab36744a5b7_auth_permission.table
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/34/trunk/todoshell/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_permission.table
+END
+c8b669d15150d7109e5f7ab36744a5b7_auth_membership.table
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/34/trunk/todoshell/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_membership.table
+END
+db.db
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/34/trunk/todoshell/databases/db.db
+END
+c8b669d15150d7109e5f7ab36744a5b7_auth_group.table
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/34/trunk/todoshell/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_group.table
+END

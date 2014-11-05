@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/35/trunk/todoshell/views
+END
+generic.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/trunk/todoshell/views/generic.html
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/todoshell/views/layout.html
+END
+generic.rss
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/todoshell/views/generic.rss
+END
+tasks.html.bak
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/trunk/todoshell/views/tasks.html.bak
+END
+generic.json
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/trunk/todoshell/views/generic.json
+END
+tasks.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/34/trunk/todoshell/views/tasks.html
+END
+generic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/todoshell/views/generic.xml
+END
+appadmin.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/trunk/todoshell/views/appadmin.html
+END
+web2py_ajax.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/34/trunk/todoshell/views/web2py_ajax.html
+END
